@@ -1,0 +1,268 @@
+{
+    "conversation": {
+        "id": "12345678-abcd-1234-efgh-1234567890ab",
+        "title": "Help with iOS App",
+        "messages": [
+            {
+                "id": "msg-001",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "Hi, I'm having trouble with the iOS app. It keeps crashing when I try to upload photos.",
+                "date": "2023-06-15T10:30:45Z"
+            },
+            {
+                "id": "msg-002",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "Hello John, I'm sorry to hear you're experiencing issues. Could you please tell me which version of the app you're using?",
+                "date": "2023-06-15T10:31:15Z"
+            },
+            {
+                "id": "msg-003",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "I'm using version 2.4.1 on an iPhone 13 with iOS 16.5.",
+                "date": "2023-06-15T10:32:30Z"
+            },
+            {
+                "id": "msg-004",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "Thank you for that information. Have you tried restarting the app and your device?",
+                "date": "2023-06-15T10:33:10Z"
+            },
+            {
+                "id": "msg-005",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "Yes, I've tried both. I've also reinstalled the app but the problem persists.",
+                "date": "2023-06-15T10:34:45Z"
+            },
+            {
+                "id": "msg-006",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "I understand how frustrating that can be. Let's try to troubleshoot this further. Could you tell me what happens exactly when you try to upload photos? Do you get any error messages?",
+                "date": "2023-06-15T10:35:30Z"
+            },
+            {
+                "id": "msg-007",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "When I select a photo from my gallery and hit upload, the app freezes for about 5 seconds and then crashes. No error message, it just closes.",
+                "date": "2023-06-15T10:37:15Z"
+            },
+            {
+                "id": "msg-008",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "Thank you for the details. This could be related to memory issues or permissions. Could you check if the app has permission to access your photos? Also, how large are the photos you're trying to upload?",
+                "date": "2023-06-15T10:38:45Z"
+            },
+            {
+                "id": "msg-009",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "I've checked and the app does have permission to access photos. The photos are around 5-8MB each, taken with my iPhone camera.",
+                "date": "2023-06-15T10:40:20Z"
+            },
+            {
+                "id": "msg-010",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "I see. Let's try a few more troubleshooting steps. Could you try clearing the cache of the app? You can do this by going to Settings > General > iPhone Storage > [App Name] > Offload App, and then reinstall.",
+                "date": "2023-06-15T10:41:50Z"
+            },
+            {
+                "id": "msg-011",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "I'll try that now. Give me a few minutes.",
+                "date": "2023-06-15T10:43:10Z"
+            },
+            {
+                "id": "msg-012",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "I've done that, but unfortunately, it's still crashing when I try to upload photos.",
+                "date": "2023-06-15T10:48:30Z"
+            },
+            {
+                "id": "msg-013",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "I'm sorry to hear that didn't resolve the issue. Let's try one more thing - could you try uploading a smaller photo or a screenshot? This might help us determine if it's related to the file size.",
+                "date": "2023-06-15T10:49:45Z"
+            },
+            {
+                "id": "msg-014",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "Good idea. I just tried with a screenshot and it worked! So it seems to be an issue with larger photos.",
+                "date": "2023-06-15T10:52:15Z"
+            },
+            {
+                "id": "msg-015",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "That's great progress! It sounds like the app might be having trouble processing larger images. We have a known issue with this in version 2.4.1 that's fixed in our latest update. Could you update to version 2.4.2 from the App Store and try again?",
+                "date": "2023-06-15T10:53:40Z"
+            },
+            {
+                "id": "msg-016",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "I'll check for the update now.",
+                "date": "2023-06-15T10:54:20Z"
+            },
+            {
+                "id": "msg-017",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "I've updated to 2.4.2 and it's working perfectly now! I can upload all my photos without any crashes. Thank you so much for your help!",
+                "date": "2023-06-15T11:01:35Z"
+            },
+            {
+                "id": "msg-018",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "That's wonderful news! I'm glad we were able to resolve the issue. The update includes several bug fixes, including the one for handling larger image files. Is there anything else I can help you with today?",
+                "date": "2023-06-15T11:02:50Z"
+            },
+            {
+                "id": "msg-019",
+                "sender": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "recipient": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "text": "No, that's all for now. Thanks again for your assistance!",
+                "date": "2023-06-15T11:03:30Z"
+            },
+            {
+                "id": "msg-020",
+                "sender": {
+                    "id": "bot-456",
+                    "name": "Support Bot"
+                },
+                "recipient": {
+                    "id": "user-123",
+                    "name": "John Doe"
+                },
+                "text": "You're very welcome! If you have any other questions or issues in the future, don't hesitate to reach out. Have a great day!",
+                "date": "2023-06-15T11:04:15Z"
+            }
+        ]
+    }
+}

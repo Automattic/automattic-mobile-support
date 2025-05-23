@@ -1,0 +1,71 @@
+{
+    "id": "87654321-dcba-4321-hgfe-0987654321ba",
+    "title": "Frustrating Support Experience",
+    "messages": [
+        {
+            "id": "msg-001",
+            "sender": {
+                "id": "user-123",
+                "name": "Sarah Smith"
+            },
+            "recipient": {
+                "id": "bot-101",
+                "name": "Support Bot"
+            },
+            "text": "Hi, I can't seem to log into my account. I keep getting an error message.",
+            "date": "2024-03-20T14:30:45Z"
+        },
+        {
+            "id": "msg-002",
+            "sender": {
+                "id": "bot-101",
+                "name": "Support Bot"
+            },
+            "recipient": {
+                "id": "user-123",
+                "name": "Sarah Smith"
+            },
+            "text": "Hello! Have you tried turning it off and on again?",
+            "date": "2024-03-20T14:31:15Z"
+        },
+        {
+            "id": "msg-003",
+            "sender": {
+                "id": "user-123",
+                "name": "Sarah Smith"
+            },
+            "recipient": {
+                "id": "bot-101",
+                "name": "Support Bot"
+            },
+            "text": "Yes, I've tried that. The error message says 'Invalid credentials' but I'm sure I'm using the right password.",
+            "date": "2024-03-20T14:32:30Z"
+        },
+        {
+            "id": "msg-004",
+            "sender": {
+                "id": "bot-101",
+                "name": "Support Bot"
+            },
+            "recipient": {
+                "id": "user-123",
+                "name": "Sarah Smith"
+            },
+            "text": "Invalid credentials usually means wrong password. Try remembering your password better next time.",
+            "date": "2024-03-20T14:33:10Z"
+        },
+        {
+            "id": "msg-005",
+            "sender": {
+                "id": "user-123",
+                "name": "Sarah Smith"
+            },
+            "recipient": {
+                "id": "bot-101",
+                "name": "Support Bot"
+            },
+            "text": "This is ridiculous. I need to speak to a human support agent right now. Your responses are not helpful at all.",
+            "date": "2024-03-20T14:34:45Z"
+        }
+    ]
+}
